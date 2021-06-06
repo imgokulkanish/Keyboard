@@ -1,0 +1,86 @@
+#container{
+    background-color: pink;
+    width:75%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 10px;
+    font-size: large;
+}
+#r1{
+    display: flex;
+}
+#r1>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
+#r2{
+    display: flex;
+}
+#r2>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
+#r3{
+    display: flex;
+}
+#r3>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
+#r4{
+    display: flex;
+}
+#r4>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
+#r5{
+    display: flex;
+}
+#r5>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
+#r6{
+    display: flex;
+}
+#r6>div{
+   background:black;
+   color: cornsilk;
+   width:50px;
+   height:40px;
+   border-radius:5px;
+   margin: 3px;
+   padding: 10px;
+
+}
